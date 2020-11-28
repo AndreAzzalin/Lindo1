@@ -28,4 +28,4 @@ I made this robot for my diploma, he is Lindo1 with 555 photovore's circuit :)
 
 # - Video: 
 
-![](https://gifs.com/gif/lindo1-0YGKDK)
+![](https://media.giphy.com/media/Uejx5gZ8L13IdpGqnu/giphy.gif)
