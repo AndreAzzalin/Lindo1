@@ -15,17 +15,17 @@ I made this robot for my diploma, he is Lindo1 with 555 photovore's circuit :)
 
 # - Components:
 
-![components](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine1.jpg)
+![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine1.jpg)
 
 # - Lindo's circuit:
 
-![circuit](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine2.png)
+![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine2.png)
 
 # - Pics:
 
-![img3](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine3.jpg)
-![img4](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine4.jpg)
+![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine3.jpg)
+![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine4.jpg)
 
 # - Video: 
 
-[![video](https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png)](https://www.youtube.com/watch?v=EPo76hDn6Kc&feature=emb_title&ab_channel=Mangusta)
+![](https://gifs.com/gif/lindo1-0YGKDK)
