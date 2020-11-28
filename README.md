@@ -13,19 +13,19 @@ I made this robot for my diploma, he is Lindo1 with 555 photovore's circuit :)
 -	**Target environment:** indoor
 
 
-# - Components:
+## - Components:
 
 ![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine1.jpg)
 
-# - Lindo's circuit:
+## - Lindo's circuit:
 
 ![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine2.png)
 
-# - Pics:
+## - Pics:
 
 ![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine3.jpg)
 ![](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine4.jpg)
 
-# - Video: 
+## - Video: 
 
 ![](https://media.giphy.com/media/Uejx5gZ8L13IdpGqnu/giphy.gif)
