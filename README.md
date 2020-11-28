@@ -19,7 +19,7 @@ I made this robot for my diploma, he is Lindo1 with 555 photovore's circuit :)
 
 # - Lindo's circuit:
 
-![circuit](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine2.jpg)
+![circuit](https://github.com/AndreAzzalin/Lindo1/blob/main/Immagine2.png)
 
 # - Pics:
 
